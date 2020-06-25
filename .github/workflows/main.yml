@@ -1,0 +1,16 @@
+name: Build and Deploy
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+        with:
+          persist-credentials: false
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: d619dc07108b3c0cd062dae2c25dedf18aef29f2
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: ./ # The folder the action should deploy.
