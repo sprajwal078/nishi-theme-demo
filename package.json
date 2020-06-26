@@ -1,0 +1,9 @@
+{
+  "homepage": "http://sprajwal078.github.io/nishi-theme-demo",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+  },
+  "scripts": { 
+     "deploy": "gh-pages -d build"
+  }
+}
