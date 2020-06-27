@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nishi-theme-demo/precache-manifest.85995d66c3a0e04c749a3f0407a8230d.js"
+  "/nishi-theme-demo/precache-manifest.5678b1bda6be999e890acc8975a8bf5c.js"
 );
 
 self.addEventListener('message', (event) => {
