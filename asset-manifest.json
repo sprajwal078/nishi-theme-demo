@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nishi-theme-demo/static/css/main.0cd87866.chunk.css",
+    "main.css": "/nishi-theme-demo/static/css/main.c1dc75c8.chunk.css",
     "main.js": "/nishi-theme-demo/static/js/main.74d061d5.chunk.js",
     "main.js.map": "/nishi-theme-demo/static/js/main.74d061d5.chunk.js.map",
     "runtime-main.js": "/nishi-theme-demo/static/js/runtime-main.92eb5616.js",
@@ -8,15 +8,15 @@
     "static/js/2.19420ed1.chunk.js": "/nishi-theme-demo/static/js/2.19420ed1.chunk.js",
     "static/js/2.19420ed1.chunk.js.map": "/nishi-theme-demo/static/js/2.19420ed1.chunk.js.map",
     "index.html": "/nishi-theme-demo/index.html",
-    "precache-manifest.d00170022071e0893c17637617dd673a.js": "/nishi-theme-demo/precache-manifest.d00170022071e0893c17637617dd673a.js",
+    "precache-manifest.85995d66c3a0e04c749a3f0407a8230d.js": "/nishi-theme-demo/precache-manifest.85995d66c3a0e04c749a3f0407a8230d.js",
     "service-worker.js": "/nishi-theme-demo/service-worker.js",
-    "static/css/main.0cd87866.chunk.css.map": "/nishi-theme-demo/static/css/main.0cd87866.chunk.css.map",
+    "static/css/main.c1dc75c8.chunk.css.map": "/nishi-theme-demo/static/css/main.c1dc75c8.chunk.css.map",
     "static/js/2.19420ed1.chunk.js.LICENSE.txt": "/nishi-theme-demo/static/js/2.19420ed1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.92eb5616.js",
     "static/js/2.19420ed1.chunk.js",
-    "static/css/main.0cd87866.chunk.css",
+    "static/css/main.c1dc75c8.chunk.css",
     "static/js/main.74d061d5.chunk.js"
   ]
 }

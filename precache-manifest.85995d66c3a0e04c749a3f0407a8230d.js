@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15a98a2b7589a2dbd8904fd1d97d79b0",
+    "revision": "b1faebf3cb564757df9f64e5120197ac",
     "url": "/nishi-theme-demo/index.html"
   },
   {
-    "revision": "7c51a682367ccb728100",
-    "url": "/nishi-theme-demo/static/css/main.0cd87866.chunk.css"
+    "revision": "b0b5fc9aba29e7e0ff2f",
+    "url": "/nishi-theme-demo/static/css/main.c1dc75c8.chunk.css"
   },
   {
     "revision": "badf196f87bfac80ceb4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nishi-theme-demo/static/js/2.19420ed1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c51a682367ccb728100",
+    "revision": "b0b5fc9aba29e7e0ff2f",
     "url": "/nishi-theme-demo/static/js/main.74d061d5.chunk.js"
   },
   {
